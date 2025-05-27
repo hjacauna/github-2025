@@ -56,3 +56,5 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 13. git branch -D <nova_branch>
 
 ----
+
+Usando gitflow, padrao nome branch
