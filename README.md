@@ -58,3 +58,5 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 ----
 
 Usando gitflow, padrao nome branch
+
+obs: git featch ---- verificar branchs no diretorio remoto
